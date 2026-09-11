@@ -1,0 +1,7 @@
+title: AI Tools per Piccole Imprese
+description: Guide pratiche sull'uso dell'intelligenza artificiale per piccoli professionisti e microimprese italiane.
+theme: minima
+lang: it
+plugins:
+  - jekyll-feed
+  
